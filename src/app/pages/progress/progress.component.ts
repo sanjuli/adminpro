@@ -6,4 +6,4 @@ import { Component } from '@angular/core';
   imports: [],
   templateUrl: './progress.component.html',
 })
-export class ProgressComponent {}
+export default class ProgressComponent {}

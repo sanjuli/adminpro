@@ -16,4 +16,4 @@ import { RouterOutlet } from '@angular/router';
   templateUrl: './pages.component.html',
   styleUrl: './pages.component.css',
 })
-export class PagesComponent {}
+export default class PagesComponent {}
